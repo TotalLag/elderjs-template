@@ -47,7 +47,7 @@
     "@babel/preset-env": "^7.29.7",
     "@babel/runtime": "^7.29.7",
     "eslint": "^8.57.1",
-    "eslint-config-prettier": "^8.10.2",
+    "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-prettier": "^4.2.5",
     "nodemon": "^2.0.22",
     "postcss": "^8.5.19",
